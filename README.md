@@ -12,11 +12,11 @@
 <!-- About Section -->
 - 🔭 I’m currently working on **Full Stack Projects using React & Node.js**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and DevOps Tools**
+- 🌱 I’m currently learning **React, Express, Node and Django**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me: **samama@email.com**
+- 📫 How to reach me: **samamakarim90@email.com**
 
 - ⚡ Fun fact: I love clean UI, debugging weird bugs, and exploring tech trends.
 
@@ -65,7 +65,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamamaKarim092&theme=radical" alt="SamamaKarim092 Streak" />
+  <img src="https://streak-stats.demolab.com?user=SamamaKarim092&theme=radical" alt="SamamaKarim092 Streak" />
 </p>
 
 <!-- Activity Graph -->
