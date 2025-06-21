@@ -3,9 +3,11 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <!-- Profile Views -->
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamamaKarim092&label=Profile%20views&color=0e75b6&style=flat" alt="SamamaKarim092" />
 </p>
+
+---
 
 <!-- About Section -->
 - 🔭 I’m currently working on **Full Stack Projects using React & Node.js**
@@ -21,37 +23,53 @@
 ---
 
 <!-- Tech Stack -->
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+### 🚀 Tech Stack
+
+#### 👨‍💻 Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</p>
+
+#### 🧰 Frameworks & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </p>
 
 ---
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamamaKarim092&show_icons=true&theme=radical" alt="SamamaKarim092 github stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamamaKarim092&show_icons=true&theme=radical" alt="SamamaKarim092 GitHub Stats" />
 </p>
 
 <!-- Top Languages -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamamaKarim092&layout=compact&theme=radical" alt="SamamaKarim092 top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamamaKarim092&layout=compact&theme=radical" alt="SamamaKarim092 Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamamaKarim092&theme=radical" alt="SamamaKarim092 streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamamaKarim092&theme=radical" alt="SamamaKarim092 Streak" />
 </p>
 
 <!-- Activity Graph -->
-### 📈 Activity Graph:
+### 📈 Contribution Activity:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamamaKarim092&theme=react-dark&hide_border=true&area=true" />
 </p>
@@ -60,7 +78,7 @@
 
 <!-- Contact -->
 ### 📫 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
