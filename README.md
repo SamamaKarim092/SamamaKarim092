@@ -65,7 +65,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SamamaKarim092)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SamamaKarim092&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <!-- Activity Graph -->
