@@ -1,5 +1,5 @@
 <!-- Title -->
-(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20am%20Samama)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20I%20am%20am%20Samama)
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <!-- Profile Views -->
