@@ -65,7 +65,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamamaKarim092&theme=radical" alt="SamamaKarim092 Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SamamaKarim092)](https://git.io/streak-stats)
 </p>
 
 <!-- Activity Graph -->
