@@ -10,7 +10,7 @@
 ---
 
 <!-- About Section -->
-- 🔭 I’m currently working on **Full Stack Projects using React & Node.js**
+- 🔭 I’m currently working on **Full Stack Projects using Next Js**
 
 - 🌱 I’m currently learning **React, Express, Node and Django**
 
