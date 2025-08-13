@@ -12,7 +12,7 @@
 <!-- About Section -->
 - 🔭 I’m currently working on **Full Stack Projects using Next Js**
 
-- 🌱 I’m currently learning **React, Express, Node and Django**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
