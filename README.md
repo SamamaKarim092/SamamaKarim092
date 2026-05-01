@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Samama" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Sumama" alt="Header" />
 </p>
 <h3 align="center">A passionate Full-Stack Software Engineer from Pakistan 🇵🇰</h3>
 
@@ -15,11 +15,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 6th semester pursuing a **BS in Software Engineering** at SSUET.
-- 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
+- 💻 Currently Building: **Mindful Space** — An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented a paper on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
-
 - ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and optimizing setups for Valorant.
 
 ---
@@ -27,7 +26,6 @@
 <!-- Tech Stack -->
 ### 🚀 My Tech Arsenal
 
-#### 👨‍💻 Languages
 <table align="center">
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" /></td>
@@ -36,40 +34,33 @@
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" /></td>
   </tr>
-</table>
-
-#### 🧰 Frameworks & Libraries
-<table align="center">
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" height="45" alt="Next.js" title="Next.js" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/vite/646CFF" width="45" height="45" alt="Vite" title="Vite" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="45" height="45" alt="React Router" title="React Router" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/express/white" width="45" height="45" alt="Express" title="Express" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" /></td>
   </tr>
-</table>
-
-#### 🗄️ Databases & ORMs
-<table align="center">
   <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/white" width="45" height="45" alt="Socket.io" title="Socket.io" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/axios/5A29E4" width="45" height="45" alt="Axios" title="Axios" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" title="GraphQL" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/prisma/white" width="45" height="45" alt="Prisma" title="Prisma" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/prisma/white" width="45" height="45" alt="Prisma" title="Prisma" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" title="GraphQL" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45" height="45" alt="Cloudinary" title="Cloudinary" /></td>
   </tr>
-</table>
-
-#### 🛠️ Tools & Automation
-<table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/github/6E40C9" width="45" height="45" alt="GitHub Desktop" title="GitHub Desktop" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="MCP / AI Agents" title="MCP / AI Agents" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" alt="Vercel" title="Vercel" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="MCP / AI Agents" title="MCP / AI Agents" /></td>
   </tr>
 </table>
 
