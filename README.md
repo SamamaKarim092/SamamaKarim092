@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Sumama" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Samama" alt="Header" />
 </p>
 <h3 align="center">A passionate Full-Stack Software Engineer from Pakistan 🇵🇰</h3>
 
@@ -15,10 +15,11 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 6th semester pursuing a **BS in Software Engineering** at SSUET.
-- 💻 Currently Building: **Mindful Space** — An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
+- 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented a paper on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
+
 - ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and optimizing setups for Valorant.
 
 ---
