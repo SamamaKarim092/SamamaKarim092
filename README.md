@@ -1,17 +1,14 @@
-<!-- Title -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Sumama" alt="Header" />
 </p>
 <h3 align="center">A passionate Full-Stack Software Engineer from Pakistan 🇵🇰</h3>
 
-<!-- Profile Views (UNTOUCHED) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamamaKarim092&label=Profile%20views&color=0e75b6&style=flat" alt="SamamaKarim092" />
 </p>
 
 ---
 
-<!-- About Section -->
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building **Full-Stack applications using Next.js & NestJS**
@@ -23,33 +20,57 @@
 
 ---
 
-<!-- Tech Stack -->
 ### 🚀 My Tech Arsenal
 
+#### 👨‍💻 Languages
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" /></td>
   </tr>
+</table>
+
+#### 🧰 Frameworks & Libraries
+<table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" height="45" alt="Next.js" title="Next.js" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/express/white" width="45" height="45" alt="Express" title="Express" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" title="NestJS" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" /></td>
+  </tr>
+</table>
+
+#### 🗄️ Databases & ORMs
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/prisma/white" width="45" height="45" alt="Prisma" title="Prisma" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" title="GraphQL" /></td>
+  </tr>
+</table>
+
+#### 🛠️ Tools & Automation
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/github/6E40C9" width="45" height="45" alt="GitHub Desktop" title="GitHub Desktop" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="MCP / AI Agents" title="MCP / AI Agents" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" alt="Vercel" title="Vercel" /></td>
   </tr>
 </table>
 
 ---
 
-<!-- Featured Projects -->
 ### 📂 Featured Projects
 
 | Category | Project Name | Tech Stack | Overview |
@@ -63,25 +84,21 @@
 
 ---
 
-<!-- GitHub Stats -->
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamamaKarim092&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamamaKarim092&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=SamamaKarim092&theme=dark&hide_title=true" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Activity Graph -->
 ### 📈 Contribution Activity:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamamaKarim092&theme=react-dark&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
@@ -89,7 +106,6 @@
 
 ---
 
-<!-- Contact -->
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
@@ -100,7 +116,6 @@
   </a>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
