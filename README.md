@@ -20,7 +20,7 @@
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
 
-- ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and optimizing setups for Valorant.
+- ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and playing Valorant.
 
 ---
 
