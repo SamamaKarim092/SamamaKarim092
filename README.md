@@ -68,8 +68,6 @@
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/white" width="45" height="45" alt="OpenAI" title="OpenAI" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/groq/white" width="45" height="45" alt="GROQ" title="GROQ" /></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
 </table>
 
