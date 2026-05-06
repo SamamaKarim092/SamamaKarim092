@@ -103,11 +103,11 @@
   <br/>
   
   - **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**
-    A professional, consumer-facing financial services website deployed during my contract. Focused on performance optimization, responsive multi-device layouts, and maintaining high accessibility standards.
+    A professional, consumer-facing financial services website deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.
     *Tech: Modern Front-end Stack, Vercel*
 
   - **[Legacy Landing](https://legacylanding.vercel.app/)**
-    A high-conversion landing page engineered for lead generation. Emphasized clean typography, engaging UI elements, and fast rendering to maximize user acquisition.
+    A high-conversion landing page engineered for lead generation. Focused on breathing life into the UI with smooth, interactive animations and polished styling, paired with clean typography and fast rendering to maximize user acquisition.
     *Tech: Modern Front-end Stack, Vercel*
 </details>
 
@@ -155,7 +155,7 @@
 </details>
 
 <details>
-  <summary><b>🎨 Front-End & Basic Projects</b></summary>
+  <summary><b>🎨 Front-End Projects</b></summary>
   <br/>
   
   - **[Modern Bank App](https://github.com/SamamaKarim092/Modern-Bank-App)**
