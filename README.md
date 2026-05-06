@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Samama" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Sumama" alt="Header" />
 </p>
 <h3 align="center">A passionate Full-Stack Software Engineer from Pakistan 🇵🇰</h3>
 
@@ -15,11 +15,11 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 6th semester pursuing a **BS in Software Engineering** at SSUET.
-- 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
+- 💻 Currently Building: **Mindful Space** — An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
-
+- 📌 **Check out my pinned repositories below** to see my most complex and featured projects!
 - ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and playing Valorant.
 
 ---
@@ -62,13 +62,14 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" alt="Vercel" title="Vercel" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="MCP / AI Agents" title="MCP / AI Agents" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" /></td>
   </tr>
-  <!-- The New Additions -->
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" /></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
+  </tr>
 </table>
 
 ---
@@ -88,7 +89,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:samamakarim90@email.com">
-
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
@@ -140,9 +143,6 @@
 </details>
 
 <br/>
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
 
 <!-- Footer -->
 <p align="center">
