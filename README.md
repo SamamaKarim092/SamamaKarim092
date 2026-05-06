@@ -101,7 +101,6 @@
 
 <details>
   <summary><b>🏢 Professional Work (UK Startup Contract)</b></summary>
-  <br/>
   
   - **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**
     A professional, consumer-facing financial services website deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.
