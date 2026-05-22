@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and playing Valorant.
 
+  📂 **Portfolio:** Below are my featured projects and the complete project portfolio for you to explore.
+
 ---
 
 
