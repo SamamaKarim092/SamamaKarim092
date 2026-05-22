@@ -141,7 +141,7 @@ An innovative AI-driven call center platform that deploys intelligent voice agen
 </details>
 
 <details>
-  <summary><b>🤖 AI & Data Science</b></summary>
+  <summary><b>🤖 AI Research & Data Science</b></summary>
   
 - **[Data Aggregation in WBANs using ML](https://github.com/SamamaKarim092/Data-Aggregation-in-Wireless-Body-Area-Networks-WBANs-using-Machine-Learning)**
     A machine learning research implementation focused on optimizing data aggregation in Wireless Body Area Networks (WBANs). Designed to improve energy efficiency and transmission reliability in medical IoT sensors.
