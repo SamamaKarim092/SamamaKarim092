@@ -101,6 +101,10 @@
 
 <details>
   <summary><b>🏢 Professional Work (UK Startup Contract)</b></summary>
+
+  - **Agora AI**
+    An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API, and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management. 
+    *Tech: React, TypeScript, ElevenLabs API, Supabase, NextJS*
   
   - **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**
     A professional, consumer-facing financial services website deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.
