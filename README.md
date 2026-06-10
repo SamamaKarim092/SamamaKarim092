@@ -72,9 +72,11 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/0052CC" width="45" height="45" alt="Jira" title="Jira" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zustand/443E38" width="45" height="45" alt="Zustand" title="Zustand" /></td>
   </tr>
 </table>
-
 ---
 
 <!-- Activity Graph -->
