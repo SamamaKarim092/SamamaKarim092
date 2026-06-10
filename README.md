@@ -46,44 +46,35 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/vite/646CFF" width="45" height="45" alt="Vite" title="Vite" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="45" height="45" alt="React Router" title="React Router" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="45" height="45" alt="Clerk" title="Clerk" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma" /></td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/express/white" width="45" height="45" alt="Express" title="Express" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" title="Django" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" title="Flask" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/fastapi/009688" width="45" height="45" alt="FastAPI" title="FastAPI" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/white" width="45" height="45" alt="Socket.io" title="Socket.io" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/axios/5A29E4" width="45" height="45" alt="Axios" title="Axios" /></td>
   </tr>
   <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/white" width="45" height="45" alt="Socket.io" title="Socket.io" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/axios/5A29E4" width="45" height="45" alt="Axios" title="Axios" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL" title="GraphQL" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/prisma/white" width="45" height="45" alt="Prisma" title="Prisma" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" title="MongoDB" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45" height="45" alt="Cloudinary" title="Cloudinary" /></td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/github/6E40C9" width="45" height="45" alt="GitHub Desktop" title="GitHub Desktop" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" title="Postman" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/white" width="45" height="45" alt="Vercel" title="Vercel" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n" title="n8n" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/white" width="45" height="45" alt="MCP / AI Agents" title="MCP / AI Agents" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" /></td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" /></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase" title="Supabase" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45" alt="Jest" title="Jest" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/0052CC" width="45" height="45" alt="Jira" title="Jira" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/redux/764ABC" width="45" height="45" alt="Redux" title="Redux" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45" alt="Scikit-Learn" title="Scikit-Learn" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/xgboost/2C3E50" width="45" height="45" alt="XGBoost" title="XGBoost" /></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zustand/443E38" width="45" height="45" alt="Zustand" title="Zustand" /></td>
   </tr>
 </table>
 ---
