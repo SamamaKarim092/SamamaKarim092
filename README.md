@@ -106,25 +106,23 @@
 <details>
   <summary><b>🏢 Professional Work (UK Startup Contract)</b></summary>
 
-- **[Agora AI](https://agora-lac.vercel.app/login)**
-An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management. 
-    *Tech: React, TypeScript, ElevenLabs API, Supabase, NextJS*
+- **[Agora AI](https://agora-lac.vercel.app/login)**  
+  An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management.  
+  *Tech: React, TypeScript, ElevenLabs API, Supabase, NextJS*
   
-- **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**
-    A professional, consumer-facing financial services website was deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.
-    *Tech: NextJS, React, Typescript, Vercel*
+- **[AutoDialer AI](https://auto-dialer-frontend-mocha.vercel.app/)**  
+  A sleek, high-performance web interface designed for automated outbound calling and real-time agent management. I architected and built the entire user experience from scratch, featuring beautifully designed, fluid login and signup authentication screens. Focused heavily on intuitive user workflows, clean component layout, and responsive layouts to ensure seamless multi-device usability for agents handling high-volume communication workflows.  
+  *Tech: NextJS, React, TypeScript, Vercel*
 
-- **[Legacy Landing](https://legacylanding.vercel.app/)**
-    A high-conversion landing page engineered for lead generation. Focused on breathing life into the UI with smooth, interactive animations and polished styling, paired with clean typography and fast rendering to maximize user acquisition.
-    *Tech: NextJs, React,  Vercel, Framer Motion, Tailwind*
+- **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**  
+  A professional, consumer-facing financial services website deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.  
+  *Tech: NextJS, React, TypeScript, Vercel*
+
+- **[Legacy Landing](https://legacylanding.vercel.app/)**  
+  A high-conversion landing page engineered for lead generation. Focused on breathing life into the UI with smooth, interactive animations and polished styling, paired with clean typography and fast rendering to maximize user acquisition.  
+  *Tech: NextJS, React, Vercel, Framer Motion, Tailwind*
+
 </details>
-
-- **[AutoDialer AI](https://auto-dialer-frontend-mocha.vercel.app/)**
-    AutoDialer: A sleek, high-performance web interface designed for automated outbound calling and real-time agent management. I architected and built the entire user experience from scratch, featuring beautifully designed, fluid login and signup authentication screens. Focused heavily on intuitive user workflows, clean component layout, and responsive layouts to ensure seamless multi-device usability for agents handling high-volume communication workflows.
-    *Tech: NextJS, React, Typescript, Vercel*
-</details>
-
-<details>
   <summary><b>🌍 Full-Stack Projects</b></summary>
   
 - **[Mindful Space](https://github.com/SamamaKarim092/Mindful-Space)**
