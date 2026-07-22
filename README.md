@@ -14,7 +14,7 @@
 <!-- About Section -->
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently in my 6th semester pursuing a **BS in Software Engineering** at SSUET.
+- 🔭 I’m currently in my 7th semester pursuing a **BS in Software Engineering** at SSUET.
 - 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
