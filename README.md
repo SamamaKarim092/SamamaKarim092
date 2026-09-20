@@ -110,6 +110,8 @@
 <details>
   <summary><b>🏢 Professional Work — Azuka Labs (UK Startup Contract)</b></summary>
 
+  > *During my contract tenure as a Full-Stack Developer at **Azuka Labs** (a UK-based AI technology startup), I engineered production-grade web platforms, conversational AI dashboards, and customer-facing interfaces for enterprise and B2B clients across the US and Canada.*
+
 - **[Agora AI](https://agora-lac.vercel.app/login)**  
   An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management.  
   *Tech: React, TypeScript, ElevenLabs API, Supabase, NextJS*
@@ -129,6 +131,8 @@
 
 <details>
   <summary><b>🌟 10PearlShine Data Science Internship</b></summary>
+
+> *Engineered for the **10Pearls Shine Internship**. Architected an enterprise-grade, 100% serverless end-to-end ML system that delivers continuous 72-hour hourly forecasts and 7-day trend intelligence for the US EPA Air Quality Index (AQI) and $\text{PM}_{2.5}$ across Karachi, Lahore, and Islamabad at $0.00/month infrastructure cost.*
 
   
 - **[Pearls AQI Predictor](https://github.com/SamamaKarim092/Pearls-AQI-Predictor)** ([Live Demo](https://pearls-aqi-predictor-six.vercel.app/))  
