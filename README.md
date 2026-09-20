@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 7th semester pursuing a **BS in Software Engineering** at SSUET.
-- 🌟 **Machine Learning Engineer Intern** at **10Pearls (10Pearls Shine)** — Architected and deployed **Pearls AQI Predictor**, an enterprise-grade 100% serverless ML forecasting system with LightGBM, Hopsworks Feature Store, and FastAPI.
+- 🌟 **ML Engineer Intern** at **10Pearls**: Architected and deployed **Pearls AQI Predictor**, an enterprise-grade 100% serverless ML forecasting system with LightGBM, Hopsworks Feature Store, and FastAPI.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
@@ -74,9 +74,19 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="45" height="45" alt="GitHub Actions" title="GitHub Actions" /></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/jira/0052CC" width="45" height="45" alt="Jira" title="Jira" /></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma" /></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/zustand/443E38" width="45" height="45" alt="Zustand" title="Zustand" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/fastapi/009688" width="45" height="45" alt="FastAPI" title="FastAPI" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45" alt="Scikit-Learn" title="Scikit-Learn" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/pandas/white" width="45" height="45" alt="Pandas" title="Pandas" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/numpy/4DABCF" width="45" height="45" alt="NumPy" title="NumPy" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" height="45" alt="Jupyter" title="Jupyter" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="45" height="45" alt="Plotly" title="Plotly" /></td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/hopsworks?s=200" width="45" height="45" alt="Hopsworks" title="Hopsworks" style="border-radius: 8px;" /></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="45" height="45" alt="Render" title="Render" /></td>
   </tr>
 </table>
+
 ---
 
 ---
@@ -120,6 +130,7 @@
 <details>
   <summary><b>🌟 10PearlShine Data Science Internship</b></summary>
 
+  
 - **[Pearls AQI Predictor](https://github.com/SamamaKarim092/Pearls-AQI-Predictor)** ([Live Demo](https://pearls-aqi-predictor-six.vercel.app/))  
   An enterprise-grade, 100% serverless end-to-end Machine Learning system built for the 10Pearls Shine program to forecast 72-hour Air Quality Index (AQI) and PM2.5 levels across Karachi, Lahore, and Islamabad. Engineered an automated feature pipeline backed by Hopsworks Cloud Feature Store leveraging 2 years of hourly data, benchmarked candidate models in a competitive tournament championing LightGBM ($R^2 = 0.892$), and integrated Explainable AI (SHAP) for real-time weather simulations. Deployed a sub-50ms FastAPI microservice on Render paired with a 5-page Nordic Slate React dashboard.  
   *Tech: Python, LightGBM, Hopsworks, Scikit-learn, FastAPI, React, SHAP, GitHub Actions*
