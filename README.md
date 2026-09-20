@@ -15,17 +15,16 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 7th semester pursuing a **BS in Software Engineering** at SSUET.
-- 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
-- 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
+- 🌟 **Machine Learning Engineer Intern** at **10Pearls (10Pearls Shine)** — Architected and deployed **Pearls AQI Predictor**, an enterprise-grade 100% serverless ML forecasting system with LightGBM, Hopsworks Feature Store, and FastAPI.
+- 🏢 Previously: **Full-Stack Developer (Contract)** at **Azuka Labs** (UK-based AI startup, Oct–Dec 2025).
+- 💻 Currently Building: **Mindful Space** — An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
-- 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
-
+- 🌱 Transitioning into deep-level engineering, focusing on scalable systems, MLOps, and mastering **React & JavaScript under the hood**.
 - ⚡ Fun fact: I love clean UI, building automation workflows (n8n), and playing Valorant.
 
 👇 *Feel free to check out my featured work and complete project portfolio below!*
 
 ---
-
 
 <!-- Tech Stack -->
 ### 🚀 My Tech Arsenal
@@ -77,13 +76,6 @@
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/zustand/443E38" width="45" height="45" alt="Zustand" title="Zustand" /></td>
   </tr>
 </table>
----
-
-<!-- Activity Graph -->
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamamaKarim092&theme=react-dark&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
-</p>
 
 ---
 
@@ -103,24 +95,43 @@
 <!-- Detailed Portfolio Section -->
 ### 🗂️ Complete Project Portfolio
 
+<details open>
+  <summary><b>🌟 10Pearls Shine Internship — Production Machine Learning & MLOps</b></summary>
+
+> *Engineered for the **10Pearls Shine Internship** (Machine Learning Track). Architected an enterprise-grade, 100% serverless end-to-end ML system that delivers continuous 72-hour hourly forecasts and 7-day trend intelligence for the US EPA Air Quality Index (AQI) and $\text{PM}_{2.5}$ across Karachi, Lahore, and Islamabad at $0.00/month infrastructure cost.*
+
+- **[Pearls AQI Predictor](https://github.com/SamamaKarim092/Pearls-AQI-Predictor)** | 🌐 **[Live Dashboard](https://pearls-aqi-predictor-six.vercel.app/)** | ⚡ **[Backend API & Swagger Docs](https://pearls-aqi-predictor-xxw6.onrender.com/docs)**
+  - **Fulfillment of 10Pearls Requirements & Architecture Highlights**:
+    - **Automated Feature Ingestion Pipeline**: Ingests multi-pollutant telemetry ($\text{PM}_{2.5}$, $\text{PM}_{10}$, $\text{NO}_2$, $\text{SO}_2$, $\text{CO}$, $\text{O}_3$) and meteorological observations hourly, engineering rolling averages, temporal lags ($t-1, t-24$), and cyclical solar/seasonal encodings.
+    - **Hopsworks Cloud Feature Store & Model Registry**: Decoupled feature store with composite primary keys (`['city', 'timestamp']`), creating an immutable single source of truth for offline model training and real-time online inference.
+    - **Deep 2-Year Historical Backfill**: Ingested and cleansed 17,520+ hourly samples per city with sensor dropout imputation.
+    - **ML Tournament & 4-Fold Chronological Cross-Validation**: Zero data leakage walk-forward splitting benchmarking candidate models. Championed **LightGBM** ($R^2 = 0.892, \text{MAE} = 3.82\,\mu\text{g/m}^3$) over Ridge Regression, Deep Neural Networks (MLP), and Persistence baselines.
+    - **Explainable AI (SHAP) & Interactive What-If Sandbox**: Integrated `shap.TreeExplainer` game-theoretic feature attributions with an interactive weather simulation sandbox for live scenario testing.
+    - **Production Serving & Modern Dashboard**: High-performance FastAPI REST microservice (sub-50ms endpoints) powering a 5-page Nordic Slate React/Vite dashboard with concentric SVG activity rings, a 49-hour time-travel scrubber, and Berkeley Earth cigarette equivalence metrics ($\text{PM}_{2.5} / 22.0$).
+    - **100% Serverless CI/CD Automation**: Automated hourly feature syncs and model verification executed via GitHub Actions cron pipelines at zero cloud hosting cost.  
+  *Tech: Python, LightGBM, Hopsworks, Scikit-learn, SHAP, FastAPI, React 19, Vite, GitHub Actions, Docker*
+</details>
+
 <details>
-  <summary><b>🏢 Professional Work (UK Startup Contract)</b></summary>
+  <summary><b>🏢 Professional Experience — Azuka Labs (UK Startup Contract)</b></summary>
+
+> *During my contract tenure as a Full-Stack Developer at **Azuka Labs** (a UK-based AI technology startup), I engineered production-grade web platforms, conversational AI dashboards, and customer-facing interfaces for enterprise and B2B clients across the US and Canada.*
 
 - **[Agora AI](https://agora-lac.vercel.app/login)**  
   An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management.  
-  *Tech: React, TypeScript, ElevenLabs API, Supabase, NextJS*
+  *Tech: React, TypeScript, ElevenLabs API, Supabase, Next.js*
   
 - **[AutoDialer AI](https://auto-dialer-frontend-mocha.vercel.app/)**  
   A sleek, high-performance web interface designed for automated outbound calling and real-time agent management. I architected and built the entire user experience from scratch, featuring beautifully designed, fluid login and signup authentication screens. Focused heavily on intuitive user workflows, clean component layout, and responsive layouts to ensure seamless multi-device usability for agents handling high-volume communication workflows.  
-  *Tech: NextJS, React, TypeScript, Vercel*
+  *Tech: Next.js, React, TypeScript, Vercel*
 
 - **[My Great Credit Club](https://my-great-credit-club.vercel.app/)**  
   A professional, consumer-facing financial services website deployed during my contract. I integrated unique custom animations and modern styling to bring the user interface to life and create a highly engaging experience, all while maintaining strict performance optimization, responsive multi-device layouts, and high accessibility standards.  
-  *Tech: NextJS, React, TypeScript, Vercel*
+  *Tech: Next.js, React, TypeScript, Vercel*
 
 - **[Legacy Landing](https://legacylanding.vercel.app/)**  
   A high-conversion landing page engineered for lead generation. Focused on breathing life into the UI with smooth, interactive animations and polished styling, paired with clean typography and fast rendering to maximize user acquisition.  
-  *Tech: NextJS, React, Vercel, Framer Motion, Tailwind*
+  *Tech: Next.js, React, Framer Motion, Tailwind CSS, Vercel*
 </details>
 
 <details>
