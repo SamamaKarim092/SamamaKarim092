@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently in my 7th semester pursuing a **BS in Software Engineering** at SSUET.
-- 💻 Currently Building: **Mindful Space** An AI-powered platform where users can journal their thoughts, track their mood, and receive personalized mental wellness advice.
+- 🌟 **Machine Learning Engineer Intern** at **10Pearls (10Pearls Shine)** — Architected and deployed **Pearls AQI Predictor**, an enterprise-grade 100% serverless ML forecasting system with LightGBM, Hopsworks Feature Store, and FastAPI.
 - 🏢 Previously: **Full Stack Developer (Contract)** at a UK-based startup (Oct-Dec 2025).
 - 📝 Research: Authored and presented an **IEEE Paper** on **"Explainable AI for Customer Retention Systems"** at ICISCT (2026).
 - 🌱 I’m transitioning into deep-level engineering, focusing on mastering **React & JavaScript under the hood**.
@@ -79,12 +79,6 @@
 </table>
 ---
 
-<!-- Activity Graph -->
-### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamamaKarim092&theme=react-dark&hide_border=true&area=true&hide_title=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 <!-- Contact -->
@@ -104,7 +98,7 @@
 ### 🗂️ Complete Project Portfolio
 
 <details>
-  <summary><b>🏢 Professional Work (UK Startup Contract)</b></summary>
+  <summary><b>🏢 Professional Work — Azuka Labs (UK Startup Contract)</b></summary>
 
 - **[Agora AI](https://agora-lac.vercel.app/login)**  
   An innovative AI-driven call center platform that deploys intelligent voice agents to manage customer interactions for B2B clients across the US and Canada. I spearheaded the development of the client-facing dashboard, providing businesses with a centralized hub for real-time analytics and call metrics. I engineered and integrated the conversational agents using the ElevenLabs API and built a highly secure, scalable backend architecture utilizing Supabase for real-time data synchronization, authentication, and client data management.  
@@ -122,6 +116,15 @@
   A high-conversion landing page engineered for lead generation. Focused on breathing life into the UI with smooth, interactive animations and polished styling, paired with clean typography and fast rendering to maximize user acquisition.  
   *Tech: NextJS, React, Vercel, Framer Motion, Tailwind*
 </details>
+
+<details>
+  <summary><b>🌟 10PearlShine Data Science Internship</b></summary>
+
+- **[Pearls AQI Predictor](https://github.com/SamamaKarim092/Pearls-AQI-Predictor)** ([Live Demo](https://pearls-aqi-predictor-six.vercel.app/))  
+  An enterprise-grade, 100% serverless end-to-end Machine Learning system built for the 10Pearls Shine program to forecast 72-hour Air Quality Index (AQI) and PM2.5 levels across Karachi, Lahore, and Islamabad. Engineered an automated feature pipeline backed by Hopsworks Cloud Feature Store leveraging 2 years of hourly data, benchmarked candidate models in a competitive tournament championing LightGBM ($R^2 = 0.892$), and integrated Explainable AI (SHAP) for real-time weather simulations. Deployed a sub-50ms FastAPI microservice on Render paired with a 5-page Nordic Slate React dashboard.  
+  *Tech: Python, LightGBM, Hopsworks, Scikit-learn, FastAPI, React, SHAP, GitHub Actions*
+</details>
+
 
 <details>
   <summary><b>🌍 Full-Stack Projects</b></summary>
